@@ -1,0 +1,2 @@
+2020-05-06T22:55:44.847+0800	INFO	zap@v0.0.1/zap.go:46	/api/v1/hello	{"status": 200, "method": "GET", "path": "/api/v1/hello", "query": "", "ip": "127.0.0.1", "user-agent": "curl/7.58.0", "time": "2020-05-06T14:55:44Z", "latency": 0.000274495}
+2020-05-06T22:56:11.799+0800	INFO	zap@v0.0.1/zap.go:46	/api/v1/hello	{"status": 200, "method": "GET", "path": "/api/v1/hello", "query": "", "ip": "127.0.0.1", "user-agent": "curl/7.58.0", "time": "2020-05-06T14:56:11Z", "latency": 0.000035822}
